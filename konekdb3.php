@@ -15,5 +15,5 @@ if($koneksi){
 }else{
     echo "mysql tidak bisa di akses";
 }
-
+//jjdkksks
 ?>
